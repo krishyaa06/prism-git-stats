@@ -1,0 +1,36 @@
+{
+  "name": "prism-git-stats",
+  "version": "1.0.0",
+  "description": "Zero-dependency CLI that turns git log into a terminal dashboard: contribution heatmap, streaks, top authors, hot files, commit-hour sparkline and commit types.",
+  "bin": {
+    "gitstats": "bin/gitstats.js"
+  },
+  "main": "src/index.js",
+  "files": [
+    "bin",
+    "src"
+  ],
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "cli",
+    "git",
+    "statistics",
+    "git-log",
+    "heatmap",
+    "terminal",
+    "devtools",
+    "prism-protocol"
+  ],
+  "author": "Soumya Bhandare (krishyaa06)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishyaa06/prism-git-stats.git"
+  },
+  "homepage": "https://github.com/krishyaa06/prism-git-stats#readme",
+  "engines": {
+    "node": ">=18.17"
+  }
+}
