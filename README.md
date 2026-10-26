@@ -18,7 +18,7 @@
   <img src="assets/screenshots/demo.png" width="90%" alt="Prism Git Stats screenshot" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="" />
 
 ## ⚡ Overview
 
@@ -73,7 +73,7 @@ Want to try it on a busy repo? `sh examples/make-demo-repo.sh /tmp/demo && gitst
 
 ## 📁 Project Structure
 
-```
+```text
 prism-git-stats/
 ├── assets/
 │   ├── logo.png
@@ -89,6 +89,7 @@ prism-git-stats/
 │   └── gitstats.test.js
 ├── .gitignore
 ├── LICENSE
+├── README.md
 └── package.json
 ```
 
@@ -115,13 +116,13 @@ Prism Git Stats is one of the open-source tools built by [Prism Protocol](https:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/krishyaa06"><img src="https://github.com/krishyaa06.png" width="90" style="border-radius:50%" /><br><b>Soumya Bhandare</b></a><br>
+      <a href="https://github.com/krishyaa06"><img src="https://github.com/krishyaa06.png" width="90" style="border-radius:50%" alt="Soumya Bhandare" /><br><b>Soumya Bhandare</b></a><br>
       <sub>Founder @ Prism Protocol</sub>
     </td>
     <td>
-      <a href="https://dc.gg/prismprotocol"><img src="https://img.shields.io/badge/Discord-Prism%20Protocol-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a><br>
-      <a href="https://instagram.com/prism_protocol_"><img src="https://img.shields.io/badge/Instagram-@prism__protocol__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a><br>
-      <a href="https://x.com/krishyaa06"><img src="https://img.shields.io/badge/X-@krishyaa06-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+      <a href="https://dc.gg/prismprotocol"><img src="https://img.shields.io/badge/Discord-Prism%20Protocol-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a><br>
+      <a href="https://instagram.com/prism_protocol_"><img src="https://img.shields.io/badge/Instagram-@prism__protocol__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a><br>
+      <a href="https://x.com/krishyaa06"><img src="https://img.shields.io/badge/X-@krishyaa06-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
     </td>
   </tr>
 </table>
@@ -135,4 +136,4 @@ Released under the [MIT License](LICENSE).
   <sub>"Build. Create. Compete." · Made with ⚡ by Prism Protocol</sub>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,50:3DDC97,100:07060f&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,50:3DDC97,100:07060f&height=110&section=footer" width="100%" alt="" />
